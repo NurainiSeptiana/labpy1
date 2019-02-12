@@ -2,6 +2,7 @@
 
 
 ![hasilnya](https://github.com/NurainiSeptiana/labpy1/blob/master/1.png)
+ini adalah hasil dari coding di atas
 
 ![hasilnya](https://github.com/NurainiSeptiana/labpy1/blob/master/2.png)
 
