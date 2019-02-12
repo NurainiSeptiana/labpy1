@@ -1,5 +1,10 @@
 # labpy1
 
+
+![hasilnya](https://github.com/NurainiSeptiana/labpy1/blob/master/1.png)
+
+![hasilnya](https://github.com/NurainiSeptiana/labpy1/blob/master/2.png)
+
 1.def Fungsi adalah bagian dari program yang dapat digunakan ulang. Hal ini bisa dicapai dengan memberi nama pada blok statemen, kemudian nama ini dapat dipanggil di manapun dalam program. Kita telah menggunakan beberapa fungsi builtin seperti range. Fungsi dalam Python didefinisikan menggunakan kata kunci def.
 
 2.print berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
